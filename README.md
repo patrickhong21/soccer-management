@@ -1,5 +1,7 @@
 # Soccer Management System
 
+Term Project for [CPSC 304 - Introduction to Relational Databases](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=304).
+
 ## Summary
 
 The focus of our project will be a sports management system, particularly for Soccer (Football) which can track various entities and attributes throughout the league. We built a website that enables users to perform actions such as editing or deleting athletes, determining game statistics, or simply viewing the standings & past scores.
