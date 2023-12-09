@@ -1,0 +1,17 @@
+{
+	"name": "Group 2 Project",
+	"version": "1.0.0",
+	"description": "Group 2 Project",
+	"main": "server.js",
+	"keywords": [],
+	"author": {
+		"name": "Group 2"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"cors": "^2.8.5",
+		"express": "^4.17.3",
+		"oracledb": "^6.2.0"
+	}
+}
